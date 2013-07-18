@@ -1,6 +1,6 @@
 {
   "name": "fiforce",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Ensure FIFO ordering of asynchronous calls",
   "main": "index.js",
   "scripts": {
